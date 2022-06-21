@@ -1,6 +1,6 @@
 # ipapi.co Cli
 
-This tool i created to fullfiled my needs to interace with [ipapi.co](https://ipapi.co) through command line
+This tool I created to fulfill my needs to interact with [ipapi.co](https://ipapi.co) through the command line
 
 ### Usage:
 
